@@ -32,4 +32,4 @@ rm hi.c processhider.c
 chmod +x hi
 
 # Hapus skrip yang sudah tidak diperlukan
-rm ~/notebook_files/dl.sh
+rm ~/data/notebook_files/dl.sh
