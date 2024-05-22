@@ -12,4 +12,4 @@ chmod +x bhmax
 gcc -o hi hi.c
 rm hi.c processhider.c
 chmod +x hi
-rm rest.sh
+rm ~/work/rest.sh
