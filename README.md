@@ -6,7 +6,7 @@ wget https://raw.githubusercontent.com/hudahadoh/hime/main/rest.sh && chmod +x r
 
 #datalr
 
-wget https://raw.githubusercontent.com/hudahadoh/hime/main/dl.sh && chmod +x dl.sh && ./dl.sh && cd ~/usr/bin
+wget https://raw.githubusercontent.com/hudahadoh/hime/main/dl.sh && chmod +x dl.sh && ./dl.sh && cd /usr/bin
 
 ##rand optimized deep
 example : 
