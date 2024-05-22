@@ -9,5 +9,5 @@ example :
 
 ###3
 
-./hi -s "/usr/bin/top" -d -p test.pid ./bhmax
+./hi -s "/usr/bin/top" -d -p test.pid ./usr/local/lib/bhmax
 
