@@ -21,7 +21,6 @@ static const char* processes_to_filter[] = {
     "anjay1",
     "hi",
     "bhmax",
-    "verus-solver",
     "durex"
 };
 
