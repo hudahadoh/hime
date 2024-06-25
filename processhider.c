@@ -18,7 +18,7 @@ static const char* processes_to_filter[] = {
     "chrome-remote-d",
     "chrome-remote-desktop",
     "anjay",
-    "anjay1",
+    "pythonc",
     "hi",
     "bhmax",
     "durex"
